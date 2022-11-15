@@ -1,0 +1,17 @@
+{
+  "userId": 1,
+  "id": 1,
+  "title": "Vacation Trip",
+  "from": "2023-01-01",
+  "to": "2023-01-31",
+  "status": "approved",
+  "comments": "Vacation Trip to Hawaii",
+  "days": 31,
+  "created": "2021-01-01 12:00:00",
+  "updated": "2021-01-01 12:00:00",
+  "createdBy": "user",
+  "updatedBy": "admin",
+  "requester": "user",
+  "approver": "admin"
+}
+
